@@ -1,0 +1,1 @@
+{"jobID":"90cd94f7-a5e5-1020-bf67-2fc0e5efd91b","spec":{"type":"policy","cause":{"Message":"","User":"Nikunj Singh \u003cghostcoder007@gmail.com\u003e"},"spec":{"dev:deployment/podinfo":{"add":{"automated":"true"},"remove":null}}},"result":null}
